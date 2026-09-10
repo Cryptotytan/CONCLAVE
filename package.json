@@ -1,0 +1,12 @@
+{
+  "name": "decision-room-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.21.0",
+    "spectrum-ts": "^1.17.0"
+  }
+}
